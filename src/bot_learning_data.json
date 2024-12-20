@@ -1,0 +1,321 @@
+{
+  "bot_0": {
+    "moveDirection": {
+      "x": -0.8239066469284406,
+      "y": 0.8502200755643194
+    },
+    "lastAction": "moving",
+    "aggression": 7117.600000008361,
+    "evasion": 1841.5499999988729,
+    "attackCooldown": -27,
+    "lastPosition": {
+      "x": 523.9758277244572,
+      "y": 2507.4480699351807
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.531549409077062,
+      "cautionLevel": 0.2509364646829586,
+      "campingTendency": 0.7359601800731561
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 4,
+    "movementCooldown": 1145.1939495675317
+  },
+  "bot_1": {
+    "moveDirection": {
+      "x": 0.49588667940854414,
+      "y": 0.6164668106463549
+    },
+    "lastAction": "moving",
+    "aggression": 7067.40000000818,
+    "evasion": 1838.149999998876,
+    "attackCooldown": -26,
+    "lastPosition": {
+      "x": 1811.0889274293147,
+      "y": 2519.58097330451
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.00022363491805998947,
+      "cautionLevel": 0.6012022669920001,
+      "campingTendency": 0.12700280239697337
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 3,
+    "movementCooldown": 8.523684132886046
+  },
+  "bot_2": {
+    "moveDirection": {
+      "x": 0.1284109207296118,
+      "y": -0.21807510984675105
+    },
+    "lastAction": "moving",
+    "aggression": 6970.300000007826,
+    "evasion": 1835.899999998878,
+    "attackCooldown": -27,
+    "lastPosition": {
+      "x": 3005.53241941141,
+      "y": 2504.6240849614055
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.3562928300188464,
+      "cautionLevel": 0.6911023610035223,
+      "campingTendency": 0.302285629661063
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 4,
+    "movementCooldown": 437.28534693764266
+  },
+  "bot_3": {
+    "moveDirection": {
+      "x": 0.5272545985566381,
+      "y": -0.31317037325316077
+    },
+    "lastAction": "moving",
+    "aggression": 6905.850000007592,
+    "evasion": 1810.0999999989015,
+    "attackCooldown": -9,
+    "lastPosition": {
+      "x": 2959.7705694282113,
+      "y": 1899.1046467877568
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.4198257434023782,
+      "cautionLevel": 0.6650489030208917,
+      "campingTendency": 0.10111044014622328
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "idleTime": 4,
+    "movementCooldown": -30.14556205568101
+  },
+  "bot_4": {
+    "moveDirection": {
+      "x": 0.2531265025134992,
+      "y": -0.031775027679587176
+    },
+    "lastAction": "moving",
+    "aggression": 6876.250000007485,
+    "evasion": 1809.1499999989023,
+    "attackCooldown": -24,
+    "lastPosition": {
+      "x": 2944.505062215557,
+      "y": 2530.9040345995722
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.6111228688681587,
+      "cautionLevel": 0.8795170060922699,
+      "campingTendency": 0.11277084123179826
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 3,
+    "movementCooldown": 502.2336820988296
+  },
+  "bot_5": {
+    "moveDirection": {
+      "x": -0.7490972777301765,
+      "y": -0.7756632823863252
+    },
+    "lastAction": "moving",
+    "aggression": 6964.150000007803,
+    "evasion": 1840.5499999988738,
+    "attackCooldown": -9,
+    "lastPosition": {
+      "x": 2459.27902654375,
+      "y": 2452.8828409187595
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.03201245785569351,
+      "cautionLevel": 0.5474187847227256,
+      "campingTendency": 0.45726107857826337
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 2,
+    "movementCooldown": 756.3720039068465
+  },
+  "bot_6": {
+    "moveDirection": {
+      "x": 0.8080764783352472,
+      "y": -0.434646255858147
+    },
+    "lastAction": "moving",
+    "aggression": 6839.55000000735,
+    "evasion": 1857.4999999988584,
+    "attackCooldown": -25,
+    "lastPosition": {
+      "x": 2332.6347940751443,
+      "y": 2529.1406289874776
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.5196369272493699,
+      "cautionLevel": 0.5206478188060246,
+      "campingTendency": 0.9487483439423552
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 5,
+    "movementCooldown": 2.851366108341608
+  },
+  "bot_7": {
+    "moveDirection": {
+      "x": 0.7161457673450164,
+      "y": -0.01283600988254019
+    },
+    "lastAction": "moving",
+    "aggression": 6754.350000007041,
+    "evasion": 1789.9499999989198,
+    "attackCooldown": -24,
+    "lastPosition": {
+      "x": 694.776745970636,
+      "y": 2514.5595931126063
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.27826669094111267,
+      "cautionLevel": 0.07219262777330604,
+      "campingTendency": 0.5833759010410946
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 4,
+    "movementCooldown": 585.6702017987136
+  },
+  "bot_8": {
+    "moveDirection": {
+      "x": 0.47287531737938826,
+      "y": -0.7274969206695183
+    },
+    "lastAction": "moving",
+    "aggression": 6677.45000000676,
+    "evasion": 1804.7499999989063,
+    "attackCooldown": -26,
+    "lastPosition": {
+      "x": 2285.8279731010143,
+      "y": 2547.4377522818572
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.6808501674956429,
+      "cautionLevel": 0.8554504969706449,
+      "campingTendency": 0.7572712551014047
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 2,
+    "movementCooldown": 396.5736830342951
+  },
+  "bot_9": {
+    "moveDirection": {
+      "x": 0.8780843671909198,
+      "y": 0.46722243452350076
+    },
+    "lastAction": "evading",
+    "aggression": 6483.250000006054,
+    "evasion": 1751.6499999989546,
+    "attackCooldown": -26,
+    "lastPosition": {
+      "x": 2736.129927746082,
+      "y": 2545.3170265296485
+    },
+    "experience": 152.97900000000624,
+    "preferences": {
+      "aggressionLevel": 0.43847911589987976,
+      "cautionLevel": 0.753361039446997,
+      "campingTendency": 0.7481107782078191
+    },
+    "skills": {
+      "aiming": 0.1,
+      "movement": 1,
+      "positioning": null,
+      "decisionMaking": 1
+    },
+    "explorationRate": 0.1,
+    "state": "exploring",
+    "stuckCounter": 0,
+    "deaths": null,
+    "idleTime": 5,
+    "movementCooldown": 384.62265423506676
+  }
+}
